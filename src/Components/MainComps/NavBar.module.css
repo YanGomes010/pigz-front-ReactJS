@@ -1,0 +1,34 @@
+.navBar{
+    width: 100%;
+    padding: .6em;
+    box-shadow: #00000014 0px 6px 36px;
+   position: relative;
+   background-color: transparent;
+   border: 1px solid black;
+}
+.navBar .blur{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:  0;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+}
+.navBar header{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navBar header button{
+    width: 130px;
+    padding: .4em;
+    border-radius: 15px;
+    font-size: 13px;
+}

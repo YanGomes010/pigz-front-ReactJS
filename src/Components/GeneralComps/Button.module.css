@@ -1,0 +1,10 @@
+.btn{
+    border: none;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-display: swap;
+    font-weight: 500;
+    background: rgb(250,100,30);
+background: linear-gradient(259deg, rgba(250,100,30,1) 0%, rgba(255,136,31,1) 100%);
+box-shadow: rgba(250, 100, 30, 0.544) 0px 6px 14px 2px;
+}

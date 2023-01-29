@@ -1,0 +1,54 @@
+.containerMarketing{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: rgb(250,100,30);
+background: linear-gradient(158deg, rgba(250,100,30,1) 0%, rgba(255,136,31,1) 100%);
+font-family: 'Poppins', sans-serif;
+}
+.containerMarketing .containerImg{
+    width: 95%;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 2.2rem;
+    font-weight: 700;
+    font-display: swap;
+    position: relative;
+}
+.containerMarketing .containerImg div{
+   margin-top: 30px;
+   margin-bottom: 30px;
+    width: 75%;
+}
+.containerMarketing .containerImg div span{
+    z-index: 1;
+}
+.containerMarketing .containerImg img{
+   position: absolute;
+   top: 20px;
+   right: -10px;
+}
+.containerMarketing .containerText{
+    width: 90%;
+    margin: 0 auto;
+    margin-left: 3%;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-display: swap;
+    font-size: 16px;
+}
+@media screen and (max-width:389px) {
+    .containerMarketing .containerText{
+        font-size: 14px;
+        padding: 1em 0;
+    }
+}
+@media screen and (max-width:360px) {
+    .containerMarketing .containerImg div{
+        font-size: 2rem;
+        width: 80%;
+    } .containerMarketing .containerText{
+        font-size: 14px;
+        width: 95%;
+    }
+}
