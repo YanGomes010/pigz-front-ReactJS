@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pigz-front-ReactJS/static/css/main.c10a2c4c.css",
+    "main.js": "/pigz-front-ReactJS/static/js/main.0ac65ed7.js",
+    "static/js/787.141a2f69.chunk.js": "/pigz-front-ReactJS/static/js/787.141a2f69.chunk.js",
+    "static/media/burguer_2.png": "/pigz-front-ReactJS/static/media/burguer_2.a18bd6bc28718a797f80.png",
+    "index.html": "/pigz-front-ReactJS/index.html",
+    "main.c10a2c4c.css.map": "/pigz-front-ReactJS/static/css/main.c10a2c4c.css.map",
+    "main.0ac65ed7.js.map": "/pigz-front-ReactJS/static/js/main.0ac65ed7.js.map",
+    "787.141a2f69.chunk.js.map": "/pigz-front-ReactJS/static/js/787.141a2f69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10a2c4c.css",
+    "static/js/main.0ac65ed7.js"
+  ]
+}
