@@ -1,0 +1,15 @@
+.btn{
+    width: 90%;
+    margin: 0 auto;
+}
+.btn button{
+    border: none;
+    background-color: #FA641E;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-display: swap;
+    font-weight: 500;
+    padding: 1em;
+    width: 90%;
+    border-radius: 15px;
+}

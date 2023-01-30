@@ -4,3 +4,7 @@
   margin: 0 auto;
   border: 1px solid black;
 }
+.sectionOne{
+  background: rgb(250,100,30);
+  background: linear-gradient(158deg, rgba(250,100,30,1) 0%, rgba(255,136,31,1) 100%);
+}

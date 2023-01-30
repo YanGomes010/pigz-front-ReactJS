@@ -1,0 +1,33 @@
+.containerContact{
+    width: 90%;
+    margin: 0 auto ;
+}
+.containerContact label{
+    width: 90%;
+    text-align: left;
+    position: relative;
+    font-size: 12px;
+    font-display: swap;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.containerContact label select{
+    position: absolute;
+    top: 19px;
+    left: 1px;
+    width: 70px;
+    border: none;
+    background-color: #F0F0F0;
+    outline: 0;
+    padding: 0.92em;
+    border-radius: 15px;
+}
+.containerContact label input{
+    text-align: center;
+    width: 100%;
+    outline: 0;
+   display: block;
+   border: 1px solid #999999;
+   padding: 1em;
+   border-radius: 15px;
+}
